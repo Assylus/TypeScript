@@ -1,3 +1,3 @@
 # Primeiro Projeto com TypeScript
 
-Consiste em um sistema de entra e saída de veículos de um estacionamento.
+Consiste em um sistema de entrada e saída de veículos de um estacionamento.
